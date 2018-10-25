@@ -38,3 +38,10 @@ resources used in learning
 | Machine learning methods | Understanding Machine learning | Fundamentals of machine learning for predictive data analytics by John D.Kelleher |
 | Programming in Scala | Scala | Programming in Scala by Martin Odersky |
 | Cloud computing and ML | Cloud ML | Cloud computing for machine learning and cognitive applications by Kai Hwang |
+
+## JAVA
+
+| Subject | Link
+| --- | --- | 
+| java collections| https://www.caveofprogramming.com/java-collections-framework/arraylist-java-collections-framework-tutorial-part-1.html |
+| list interface example | https://www.geeksforgeeks.org/list-interface-java-examples/ |
