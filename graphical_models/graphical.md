@@ -1,6 +1,8 @@
 # Entry
 https://probmods.org/chapters/inference-algorithms.html
+
 http://blog.nus.edu.sg/alexcook/teaching/st4234-bayesian-statistics/
+
 https://github.com/markdregan/Bayesian-Modelling-in-Python
 
 # More
