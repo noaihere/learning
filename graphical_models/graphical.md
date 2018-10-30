@@ -1,3 +1,12 @@
+# Common Sense
+https://www.technologyreview.com/s/612263/the-us-military-wants-to-teach-ai-some-basic-common-sense/
+
+http://mbmlbook.com/Recommender.html
+
+https://opentrolley.com.sg/Book_Detail.aspx?EAN=9780262632683
+
+
+
 # Entry
 https://probmods.org/chapters/inference-algorithms.html
 
